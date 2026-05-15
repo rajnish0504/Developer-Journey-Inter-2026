@@ -1,33 +1,78 @@
-Chrome Keyboard Shortcuts Learned
-Tab Management
-Shortcut KeyDescriptionCtrl + TOpen a new tabCtrl + WClose current tabCtrl + Shift + TRestore recently closed tabCtrl + TabSwitch to next tabCtrl + Shift + TabSwitch to previous tabCtrl + 1 to 8Jump to a specific tabCtrl + 9Go to the last tab
+# ⌨️ Chrome & Windows Keyboard Shortcuts Learned
 
-Window Management
-Shortcut KeyDescriptionCtrl + NOpen new Chrome windowCtrl + Shift + NOpen Incognito windowAlt + F4Close Chrome window
+A collection of useful keyboard shortcuts I learned during my internship and daily development work.
 
-Navigation Shortcuts
-Shortcut KeyDescriptionAlt + Left ArrowGo backAlt + Right ArrowGo forwardCtrl + RRefresh current pageCtrl + LFocus address barCtrl + DBookmark current page
+---
 
-Search & History
-Shortcut KeyDescriptionCtrl + HOpen HistoryCtrl + JOpen DownloadsCtrl + FFind text on page
+# 🌐 Google Chrome Shortcuts
 
-Zoom Controls
-Shortcut KeyDescriptionCtrl + +Zoom inCtrl + -Zoom outCtrl + 0Reset zoom
+| Shortcut Key | Description |
+|--------------|-------------|
+| `Ctrl + Shift + T` | Restore/Reopen closed tab |
+| `Ctrl + T` | Open new tab |
+| `Ctrl + W` | Close current tab |
+| `Ctrl + Tab` | Switch to next tab |
+| `Ctrl + Shift + Tab` | Switch to previous tab |
+| `Ctrl + L` | Select browser URL/search bar |
+| `Ctrl + R` | Reload current page |
+| `Ctrl + H` | Open browser history |
+| `Ctrl + J` | Open downloads |
+| `Ctrl + D` | Bookmark current page |
+| `Ctrl + +` | Zoom in |
+| `Ctrl + -` | Zoom out |
+| `Ctrl + 0` | Reset zoom |
+| `Ctrl + N` | Open new window |
+| `Ctrl + Shift + N` | Open incognito mode |
+| `Alt + Left Arrow` | Go back |
+| `Alt + Right Arrow` | Go forward |
 
-Useful Editing Shortcuts
-Shortcut KeyDescriptionCtrl + CCopyCtrl + VPasteCtrl + XCutCtrl + ZUndoCtrl + YRedoCtrl + ASelect all
+---
 
-What I Learned
+# 💻 Windows Shortcuts
 
+| Shortcut Key | Description |
+|--------------|-------------|
+| `Ctrl + C` | Copy |
+| `Ctrl + V` | Paste |
+| `Ctrl + X` | Cut |
+| `Ctrl + Z` | Undo |
+| `Ctrl + Y` | Redo |
+| `Ctrl + A` | Select all |
+| `Alt + Tab` | Switch between applications |
+| `Windows + D` | Show desktop |
+| `Windows + E` | Open File Explorer |
+| `Windows + L` | Lock system |
+| `Windows + Shift + S` | Take screenshot |
+| `Windows + V` | Open clipboard history |
+| `Windows + .` | Open emoji panel |
 
-Learned useful Chrome keyboard shortcuts.
+---
 
+# 🧑‍💻 VS Code Shortcuts
 
-Understood how shortcuts improve productivity and speed.
+| Shortcut Key | Description |
+|--------------|-------------|
+| `Ctrl + P` | Quick file search |
+| `Ctrl + Shift + P` | Open command palette |
+| `Ctrl + /` | Comment/uncomment line |
+| `Alt + Up/Down` | Move line up/down |
+| `Shift + Alt + Down` | Copy line downward |
+| `Ctrl + B` | Toggle sidebar |
+| `Ctrl + S` | Save file |
+| `Ctrl + Shift + F` | Search in project |
+| `Ctrl + ~` | Open terminal |
+| `Ctrl + Space` | Trigger suggestions/autocomplete |
 
+---
 
-Practiced tab handling, navigation, and browser management shortcuts.
+# 📚 What I Learned
 
+- Keyboard shortcuts improve productivity and save time.
+- Helpful during development, testing, documentation, and browsing.
+- Frequently used in VS Code, Chrome, GitHub, and Windows workflow.
 
-Learned shortcut keys for copy, paste, undo, and history access.
+---
 
+# 🚀 Goal
+
+Learning and practicing keyboard shortcuts daily to increase development speed and efficiency.
