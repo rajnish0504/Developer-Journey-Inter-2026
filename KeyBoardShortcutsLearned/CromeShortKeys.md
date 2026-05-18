@@ -73,6 +73,6 @@ A collection of useful keyboard shortcuts I learned during my internship and dai
 
 ---
 
-# 🚀 Goal
+# 🚀 Goalgit 
 
 Learning and practicing keyboard shortcuts daily to increase development speed and efficiency.
