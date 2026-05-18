@@ -232,3 +232,10 @@ Review Changes
 Resolve Conflicts
       ↓
 Merge Code
+
+# Next Goal
+
+* Learn Git Rebase
+* Understand Fork & Clone workflow
+* Practice Advanced Git Commands
+* Explore Open Source Contribution workflow
