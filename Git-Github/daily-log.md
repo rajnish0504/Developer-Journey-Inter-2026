@@ -101,7 +101,7 @@ Adds all modified files to staging area.
 
 ```bash
 git commit -m "Added login feature"
-```
+`````
 
 Saves changes locally in Git.
 
