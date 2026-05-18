@@ -48,6 +48,8 @@ Successfully understood the Git branching workflow, how to update branches using
 
 Learn pull requests, merge conflicts, and .gitignore concepts.
 
+
+# Day 3 - Git Branching, Pull & Merge Learning
 # Git Branching, Pull & Merge Workflow
 
 ## What I Learned
@@ -63,7 +65,7 @@ Learn pull requests, merge conflicts, and .gitignore concepts.
 
 ---
 
-# Day 3 - Git Branching, Pull & Merge Learning
+
 
 # Git Workflow Commands
 
